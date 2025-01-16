@@ -16,7 +16,7 @@ clear_console()  # Call clear_console() here
 
 passcode = input("Input passcode:")
 if passcode == "00.2008.00":
-  print("Hello Aliyan Ahmed. Welcome to the Axion Security Servers database. ")
+  print("Hello |name|. Welcome to the Axion Security Servers database. ")
 else:
   print("Access Denied and system locked.")
   time.sleep(3)
